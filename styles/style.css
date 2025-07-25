@@ -66,3 +66,20 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+
+/* animation */
+
+@keyframes badge-spin {
+    0%{
+        transform: rotate(45deg);
+    }
+   
+    100%{
+        transform: rotate(360deg);
+    }
+}
+
+.trusted-badge{
+    animation: badge-spin 3s linear infinite ;
+}
