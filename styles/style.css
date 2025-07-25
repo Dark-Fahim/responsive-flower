@@ -58,3 +58,11 @@
     background-size: cover;
     background-position: center;
 }
+
+/* Join section styles */
+.join-container{
+    background-image: linear-gradient(rgba(7, 51, 79, 0.4), rgba(7, 51, 79, 0.4)), url(../assets/news-letter-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
