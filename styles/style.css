@@ -37,3 +37,24 @@
     color: #fff;
     
 }
+
+
+/* latest deals styles */
+.off-60{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),  url(../assets/deal-bloom.png);
+    min-height: 200px;
+    background-size: cover;
+    background-position: center;
+}
+
+.off-25{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),  url(../assets/deal-zabo.png);
+    background-size: cover;
+    background-position: center;
+}
+.off-30{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),  url(../assets/deal-ana.png);
+    min-height: 200px;
+    background-size: cover;
+    background-position: center;
+}
